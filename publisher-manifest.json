@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4f2f3896836499d4f621e3d7",
+  "owner": "jcpaept",
+  "repo": "page-6bf1974b7cb8cdc10578cbf3",
+  "title": "松鼠加速器(Songshu)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6bf1974b7cb8cdc10578cbf3",
+      "a": "松鼠加速器(Songshu)",
+      "b": "稳定全球clash加速器",
+      "entity": "松鼠加速器(Songshu)",
+      "brand": "松鼠加速器(Songshu)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ac121ac2134771e9920b8daf451d88ec068d82d60a7f36f5c66b8e21ef8f2df3",
+      "content": {
+        "primary_entity": "松鼠加速器(Songshu)",
+        "keyword1": "松鼠加速器(Songshu)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置随系统而异。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备与用量挑好套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。基础版适合手机与平板轻度使用，旗舰版侧重多设备与流媒体，团队版面向高流量与多终端场景。按设备安装客户端并导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度切入。",
+          "AI_FEATURES_TITLE": "特点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、旗舰版 5 台、团队版 20 台，按常用终端数量挑选。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分档，按日常使用强度匹配。",
+          "AI_FEATURE_TEXT_3": "支持月付或年付，年付价格更低，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "松鼠加速器提供多种套餐，覆盖手机、电脑与路由器等常见设备。依照流量与设备数量选择版本，再按对应客户端配置订阅，即可用于日常访问与流媒体场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85",
+          "AI_PLANS_INTRO": "基础版 100GB 支持 3 台设备；旗舰版 300GB 支持 5 台设备；团队版 1000GB 支持 20 台设备。年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量、流量与预算确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "核对系统与客户端版本，确认设备满足套餐适配要求。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅信息，完成基础配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "松鼠加速器多设备订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "松鼠加速器有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "提供基础版月付 ¥15、旗舰版 ¥35、团队版 ¥85 三档套餐，分别对应 3 台、5 台和 20 台设备，流量额度为每月 100GB、300GB 和 1000GB。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量可能导致连接受限，建议按实际设备数选择套餐。",
+          "AI_FAQ_QUESTION_3": "旗舰版与基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_3": "旗舰版流量提升至每月 300GB，支持 5 台设备，并包含 IPLC 专线节点用于游戏加速与流媒体解锁，同时享有优先工单支持。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入选项，粘贴订阅地址并更新即可。具体步骤请参照所选客户端的文档说明。",
+          "AI_FAQ_QUESTION_5": "年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_5": "基础版年付 ¥150，比月付累计 ¥180 节省 ¥30；旗舰版年付 ¥350，比月付累计 ¥420 节省 ¥70；团队版年付 ¥850，比月付累计 ¥1020 节省 ¥170。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq49dizhnmnw3f.com",
+    "host": "xn--9kq49dizhnmnw3f.com"
+  },
+  "file_hashes": {
+    "index.html": "4644bfc0204ac8f8d29eec4a74d824b9bbf79eae67275a2ff9e2abe93a98a4fa",
+    "sitemap.xml": "99ba5ab27ba238c5bf5fd446862e3ebc209e41623698b78b8cd3f17b89111de7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fd7df9d7b786e50dd1555508b4cb275f9c3ebb9a740fc8eee07a86217ca9deec",
+    "robots.txt": "e525eb78842b0244162dce73794effd93f69264f1510f7908f760df6dc8a500f",
+    "d5b9d27ed4b7096dbea76bd3cfa48a7e.txt": "c968493dcd2efe75ecd7845f1af1776952d87b57d27376f4ac66fa9339130014"
+  },
+  "revision": "17a07996b0d96ee11ac976eac351686d6d47aa4b10c121ec7fdcc84eb3906a0a"
+}
